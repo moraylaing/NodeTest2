@@ -9,6 +9,10 @@ body {
 
 h1 {
   font-size: 4em;
+  color: #ddd;
+  text-align: center;
+  font-family: sans-serif;
+}
 }
 
 input[type=text], label {
